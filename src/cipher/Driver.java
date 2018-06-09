@@ -22,7 +22,7 @@ public class Driver {
 		cc.run();
 		message = cc.getMessage();
 
-		System.out.println("\nOutput >>  "+message+"\n");
+		System.out.println("\nOutput >>  " + message + "\n");
 	}
 
 }
